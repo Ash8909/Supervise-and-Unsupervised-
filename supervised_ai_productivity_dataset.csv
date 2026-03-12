@@ -1,0 +1,11 @@
+UserID,Age,Profession,AI_Tool,Hours_Using_AI_Per_Day,Task_Type,Experience_Level,ProductivityScore
+1,19,Student,ChatGPT,3,Research,Beginner,70
+2,22,Student,ChatGPT,5,Writing,Intermediate,82
+3,35,Teacher,Grammarly,2,Editing,Intermediate,75
+4,28,Graphic Designer,Midjourney,4,Design,Advanced,88
+5,31,Software Developer,Github Copilot,6,Coding,Advanced,92
+6,24,Student,ChatGPT,4,Homework,Beginner,78
+7,40,Marketing Specialist,Jasper AI,3,Content Creation,Intermediate,80
+8,27,Software Developer,Github Copilot,7,Coding,Advanced,94
+9,33,Writer,ChatGPT,5,Writing,Intermediate,85
+10,29,Researcher,ChatGPT,6,Research,Advanced,90
